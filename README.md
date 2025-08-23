@@ -1,2 +1,4 @@
 # Roboshot Frontend Code 
-# Roboshop Architecture
+## Roboshop 3 Tier Architecture
+
+![alt text](roboshop.svg)
