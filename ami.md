@@ -3,4 +3,4 @@
 3. Architecture - x86_64
 4. Owner - 973714476881
 5. Root device type - ebs
-6. User-name - ec2-user & devops321
+6. User-name - ec2-user & DevOps321
