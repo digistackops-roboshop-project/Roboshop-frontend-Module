@@ -129,3 +129,10 @@ Restart Nginx Service to load the changes of the configuration.
 ```shell 
 systemctl restart nginx 
 ```
+
+# Troubleshooting
+
+To Know the info like  "users who accsing our website" and "what error codes they get"
+```
+sudo tail -f /var/log/nginx/access.log
+```
